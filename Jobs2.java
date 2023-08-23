@@ -1,4 +1,4 @@
-class jobs2{
+class Jobs2{
   public static void main(string args[]){
     System.out.println("Hello World 2");
   }
